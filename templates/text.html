@@ -1,0 +1,38 @@
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+<meta name="viewport" content="initial-scale=1">
+
+
+>>1-100位 >>100位　200位<br><br>
+
+
+<form action={% url 'topnext' %}  method="get">
+  <label>pub <input type="text" size="10" name="next"></label>
+  <input type="submit">
+</form>
+
+<form action={% url 'topnext' %}  method="get">
+    <select id="next" name="next">
+      <option value="x01">2</option>
+      <option value="x02">3</option>
+      <option value="x03">4</option>
+      <option value="x04">5</option>
+      <option value="x05">6</option>
+      <option value="x06">7</option>
+      <option value="x07">x07</option>
+      <option value="100">x08</option>
+      <option value="100">x09</option>
+      <option value="100">x10</option>
+      <option value="100">x11</option>
+      <option value="100">x12</option>
+      <option value="100">x13</option>
+      <option value="100">x14</option>
+    </select>
+    <input type="submit">
+  </form>
+
+
+<form></form>
+{{file_content|linebreaksbr}}
+
+>>100位 >>200位

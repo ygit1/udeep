@@ -1,0 +1,28 @@
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+<meta name="viewport" content="initial-scale=1">
+
+<link rel="stylesheet" href="{% static 'style.css' %}">
+
+<object data="sample.txt" type="text/plain"></object>
+
+
+<header id="site-header">
+  {% load static %}
+  <img src="{% static "tweetbook.png" %}">  
+</header>
+
+
+<form action={% url 'dl' %}  method="get">
+  <label>@ <input type="text" size="10" name="your_name"></label>
+  <select id="limit" name="limit">
+    <option value="20">20</option>
+    <option value="40">40</option>
+    <option value="100">100</option>
+  </select>
+  <input type="submit">
+</form>
+
+
+
+

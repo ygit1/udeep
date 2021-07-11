@@ -1,0 +1,2 @@
+id,conversation_id,created_at,date,time,timezone,user_id,username,name,place,tweet,language,mentions,urls,photos,replies_count,retweets_count,likes_count,hashtags,cashtags,link,retweet,quote_url,video,thumbnail,near,geo,source,user_rt_id,user_rt,retweet_id,reply_to,retweet_date,translate,trans_src,trans_dest
+1420427328,1420427328,2009-03-30 21:42:42 UTC,2009-03-30,21:42:42,+0000,27736435,amata,Alyssa Mata,,home getting ready to clean.,en,[],[],[],0,0,0,[],[],https://twitter.com/amata/status/1420427328,False,,0,,,,,,,,[],,,,

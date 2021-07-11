@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+* {
+  margin: 0;
+}
+
+html {
+  background-color: #f5f5f5;
+}
+
+body {
+  line-height: 1;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  color: #333;
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
+
+img {
+  max-width: 50%;
+  height: auto;
+}
