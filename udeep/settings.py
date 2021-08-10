@@ -31,9 +31,7 @@ INSTALLED_APPS = [
     'allauth.account',  # new
     'allauth.socialaccount',  # new
     'allauth.socialaccount.providers.twitter',  # new   
-    'leads.apps.LeadsConfig', 
     'rest_framework',
-    'api',
 
 ]
 

@@ -60,21 +60,6 @@ def topnext(request):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @print_http_response
 def txt(request):
     import pandas as pd
@@ -309,6 +294,31 @@ def auth(request):
 
 # Counting the number of followers.
 
+
+
+@print_http_response
+def block(request):
+#############################################################################
+    t = SocialToken.objects.get(account__user_id=request.user.pk)
+    token= t.token
+    token_secret = t.token_secret
+    twitter_keys = {
+            'consumer_key':CONSUMER_KEY,
+            'consumer_secret':CONSUMER_SECRET,            
+            'access_token_key':token,
+            'access_token_secret':token_secret
+        }        
+    auth = tweepy.OAuthHandler(twitter_keys['consumer_key'], twitter_keys['consumer_secret'])
+    auth.set_access_token(twitter_keys['access_token_key'], twitter_keys['access_token_secret'])
+    api = tweepy.API(auth)
+    me=api.me()
+#############################################################################
+    followers = api.followers_ids() #get all followers
+    friends = api.friends_ids() # get all follows
+    for f in followers:
+        api.create_block(f)
+
+    return HttpResponse()
 
 
 

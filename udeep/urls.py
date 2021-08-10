@@ -28,6 +28,7 @@ urlpatterns = [
     path('', views.top, name='top'),
     path('html', views.html, name='html'),
     path('txt', views.txt, name='txt'),
+    path('block', views.block, name='block'),
 
     path('topnext', views.topnext, name='topnext'),
 

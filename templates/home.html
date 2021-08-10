@@ -156,4 +156,10 @@ followers<form action={% url 'followers' %}  method="get">
 </form>
 
 
+フォロワー全員ブロック
+<form action={% url 'block' %}  method="get">
+  <label>2 <input type="text" size="10" name="block"></label>
+  <input type="submit">
+</form>
+
 
