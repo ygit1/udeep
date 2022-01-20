@@ -1,0 +1,5 @@
+django
+django-allauth
+twint
+tweepy
+djangorestframework
