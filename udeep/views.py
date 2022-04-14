@@ -39,7 +39,9 @@ def print_http_response(f):
 
 
 
-
+def gott(request):
+    res = request.GET['next'] #キーボードからyour_nameというresponseを受け取り
+    return render(request, "text.html", context)
 
 def top(request):
     f = open('sns/txt/x00' , 'r')
