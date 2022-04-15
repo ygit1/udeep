@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV='/home/admin/udeep/env'
+VIRTUAL_ENV='/home/y/udeep/udeep/env'
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -47,6 +47,9 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'udeep.urls'
 
+# rootフォルダにファイルをおくことにする。bashとかのファイル置き場を設定
+
+
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
@@ -108,7 +111,7 @@ USE_I18N = True
 USE_L10N = True
 
 USE_TZ = True
-
+#os.path.joinなんだけど、単純に初期設定でmanage.pyのところに指定されてる
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.2/howto/static-files/

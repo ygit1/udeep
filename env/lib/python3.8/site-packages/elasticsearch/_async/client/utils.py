@@ -15,12 +15,26 @@
 #  specific language governing permissions and limitations
 #  under the License.
 
-from ...client.utils import (  # noqa
+from ..._sync.client.utils import (
+    _TYPE_ASYNC_SNIFF_CALLBACK,
+    _TYPE_HOSTS,
+    CLIENT_META_SERVICE,
     SKIP_IN_PATH,
-    NamespacedClient,
-    _bulk_body,
-    _escape,
-    _make_path,
-    _normalize_hosts,
-    query_params,
+    _base64_auth_header,
+    _quote,
+    _quote_query,
+    _rewrite_parameters,
+    client_node_configs,
 )
+
+__all__ = [
+    "CLIENT_META_SERVICE",
+    "_TYPE_ASYNC_SNIFF_CALLBACK",
+    "_base64_auth_header",
+    "_quote",
+    "_quote_query",
+    "_TYPE_HOSTS",
+    "SKIP_IN_PATH",
+    "client_node_configs",
+    "_rewrite_parameters",
+]

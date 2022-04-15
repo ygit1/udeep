@@ -37,11 +37,20 @@ def print_http_response(f):
 
 
 
+import os
+#os.path.joinなんだけど、単純に初期設定でmanage.pyのところに指定されてるからそこを指定すればファイルを呼べる
 
+from rest_framework.response import Response
 
+#@print_http_response
 def gott(request):
-    res = request.GET['next'] #キーボードからyour_nameというresponseを受け取り
-    return render(request, "text.html", context)
+    res = request.GET['id'] #キーボードからyour_nameというresponseを受け取り
+# このviewsからの場所でファイルを指定
+    cmd = './a.sh {}'.format(res) 
+    pipe=subprocess.run(cmd, shell=True)
+    
+    return render_to_response('result.html', {'result': result})
+
 
 def top(request):
     f = open('sns/txt/x00' , 'r')

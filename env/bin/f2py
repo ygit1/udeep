@@ -1,4 +1,4 @@
-#!/home/admin/udeep/env/bin/python
+#!/home/y/udeep/udeep/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
