@@ -1,352 +1,373 @@
-    400 the
-    398 RT
-    391 to
-    306 and
-    225 of
-    200 is
-    135 in
-    134 we
-    134 for
-    122 on
-    114 Bitcoin
-    110 s
-     97 I
-     92 you
-     91 that
-     89 this
-     85 it
-     83 with
-     75 We
-     75 a
-     68 bitcoin
-     68 be
-     62 will
-     62 Twitter
-     62 re
+    435 the
+    419 to
+    397 RT
+    335 and
+    234 of
+    219 is
+    143 we
+    133 for
+    131 in
+    126 on
+    115 s
+    110 I
+    108 Bitcoin
+    102 that
+     99 it
+     94 this
+     93 you
+     86 with
+     81 a
+     76 We
+     76 be
+     68 Twitter
+     67 bitcoin
+     65 will
+     63 re
      57 our
      54 The
-     54 are
-     50 can
+     53 can
+     53 are
+     50 an
      49 more
-     47 an
-     45 This
-     45 people
-     44 as
-     42 now
-     41 TIDAL
-     41 have
-     41 from
-     41 all
-     40 has
-     39 work
-     39 us
+     48 as
+     47 all
+     45 now
+     44 This
+     44 has
+     43 people
+     43 have
+     42 TIDAL
+     42 from
+     42 by
+     41 work
+     39 about
+     38 us
      37 new
-     37 by
-     36 Square
-     36 about
-     31 not
-     31 at
-     30 open
+     34 Square
+     34 or
+     34 at
+     33 not
+     32 open
      28 Spaces
-     28 or
+     28 It
+     28 ing
      27 what
      27 up
-     27 today
-     27 ing
-     26 just
-     24 It
-     24 how
+     27 how
+     27 do
+     26 today
+     25 time
+     25 just
+     25 but
+     24 world
+     24 t
+     24 c
      24 amp
-     23 time
-     23 t
-     23 out
+     23 was
+     23 so
+     23 into
      22 your
-     22 world
-     22 into
-     22 do
-     22 but
-     21 was
-     20 so
+     22 get
+     21 out
+     21 ll
+     20 one
      20 like
-     20 If
-     20 get
+     19 What
+     19 way
      19 some
-     19 one
-     19 ll
+     19 should
+     19 If
      19 CashApp
-     18 What
-     18 way
+     18 they
+     18 my
+     18 made
      18 jack
      18 internet
      18 he
+     18 first
      18 everyone
-     18 c
-     17 they
+     18 company
      17 source
      17 make
+     17 great
      17 build
+     17 believe
+     17 been
      17 And
+     17 able
      16 want
      16 Today
-     16 should
-     16 able
+     16 right
+     16 A
+     15 who
+     15 their
      15 r
-     15 made
-     14 who
-     14 their
+     15 public
+     15 much
+     15 me
+     15 its
+     15 In
+     14 why
      14 most
-     14 In
-     14 great
-     14 first
-     14 company
-     14 been
-     14 A
+     14 conversation
+     14 best
      13 through
      13 team
-     13 right
-     13 public
-     13 only
-     13 no
-     13 its
+     13 over
      13 here
-     13 conversation
      13 Cash
      13 better
-     13 believe
      13 around
+     12 years
      12 which
+     12 when
      12 wallet
      12 than
      12 take
+     12 service
+     12 own
      12 Our
-     12 much
-     12 me
-     12 best
+     12 only
+     12 no
+     12 important
+     12 don
+     12 doing
      12 artists
-     11 years
      11 would
-     11 why
-     11 when
+     11 these
+     11 Thank
+     11 system
      11 really
      11 power
-     11 own
-     11 over
-     11 my
+     11 part
+     11 need
      11 money
      11 milessuter
+     11 m
+     11 join
      11 incredible
-     11 if
      11 hardware
-     11 going
      11 future
+     11 free
      11 focus
-     11 doing
+     11 elonmusk
+     11 ed
      11 design
      11 business
+     11 being
+     11 any
      10 use
-     10 these
-     10 Thank
+     10 them
+     10 support
+     10 start
      10 soon
      10 software
+     10 protocol
+     10 One
      10 news
-     10 need
      10 mining
-     10 m
-     10 join
-     10 important
-     10 elonmusk
-     10 ed
-     10 don
+     10 love
+     10 if
+     10 going
      10 d
      10 building
      10 board
      10 bluesky
      10 App
-     10 any
+     10 also
       9 working
+      9 web
+      9 trust
       9 think
       9 They
       9 there
-      9 them
-      9 system
-      9 support
-      9 start
       9 solutions
-      9 set
-      9 service
       9 see
-      9 same
-      9 One
+      9 said
       9 making
       9 likely
+      9 interview
+      9 individuals
+      9 h
       9 Great
-      9 free
+      9 financial
+      9 excited
       9 energy
       9 development
+      9 app
+      9 always
       9 ⚡
       8 You
       8 without
       8 Why
       8 where
-      8 web
-      8 very
       8 ve
       8 US
+      8 too
       8 term
       8 sqcrypto
-      8 sc
-      8 part
-      8 love
+      8 solution
+      8 set
+      8 same
+      8 many
       8 look
       8 Jay
-      8 interview
       8 gt
       8 government
+      8 goal
+      8 global
       8 gladstein
-      8 financial
-      8 excited
+      8 focused
+      8 far
       8 decentralized
+      8 currency
       8 Crypto
+      8 critical
       8 create
-      8 app
-      8 always
+      8 both
+      8 address
       7 year
+      7 very
       7 update
-      7 towards
-      7 too
-      7 To
-      7 starting
       7 started
-      7 solution
-      7 protocol
-      7 Open
+      7 Salvador
+      7 problem
+      7 policy
+      7 owned
       7 off
+      7 must
       7 music
       7 moneyball
       7 mobile
       7 media
-      7 many
       7 long
+      7 live
       7 less
       7 last
-      7 individuals
+      7 know
+      7 information
       7 impact
+      7 host
+      7 his
       7 help
       7 happening
       7 had
-      7 h
       7 giving
+      7 fund
       7 full
-      7 focused
       7 feel
-      7 far
+      7 everything
+      7 every
       7 end
+      7 El
+      7 doesn’t
       7 does
       7 DocumentingBTC
-      7 direction
+      7 decision
+      7 days
       7 day
-      7 currency
-      7 critical
+      7 creating
       7 community
       7 businesses
-      7 bill
-      7 being
+      7 brockm
+      7 biggest
       7 approach
-      7 also
+      7 All
       7 al
       7 Africa
       7 accounts
       7 access
       6 Wow
-      6 won
       6 while
-      6 well
+      6 were
       6 using
       6 used
+      6 two
       6 twitter
       6 tweets
-      6 trust
+      6 towards
+      6 top
       6 together
+      6 To
       6 TheBlueMatt
+      6 th
       6 technology
+      6 starting
       6 standard
       6 spread
+      6 something
       6 Snowden
       6 small
       6 single
-      6 shit
       6 services
       6 self
-      6 Salvador
-      6 said
-      6 rolling
-      6 problem
-      6 policy
+      6 sc
+      6 say
+      6 run
+      6 platform
       6 peer
-      6 On
       6 nothing
-      6 non
+      6 My
       6 MuunWallet
       6 may
-      6 live
+      6 lot
+      6 listen
+      6 learn
       6 lead
       6 later
-      6 know
       6 isn
       6 iOS
       6 innovation
-      6 information
-      6 host
       6 Happy
-      6 goal
-      6 global
-      6 fund
-      6 follow
+      6 happy
+      6 go
       6 excellent
-      6 everything
-      6 every
+      6 e’s
       6 enough
       6 ElliottWilson
-      6 El
-      6 doesn’t
+      6 done
       6 different
       6 developer
+      6 damn
       6 customers
       6 custody
-      6 creating
+      6 countries
+      6 companies
       6 change
-      6 both
+      6 BTC
+      6 bill
+      6 anyone
+      6 announced
       6 An
       6 amazing
-      6 All
-      6 address
-      5 Yes
+      5 won
+      5 well
       5 week
       5 value
       5 understand
-      5 two
       5 TwitterSupport
-      5 top
       5 three
       5 those
+      5 things
       5 There
-      5 th
+      5 That
       5 TBD
+      5 taking
       5 sure
       5 stop
-      5 something
+      5 step
       5 social
+      5 So
       5 since
       5 simple
       5 short
+      5 shit
       5 share
       5 SenLummis
       5 sellers
       5 security
-      5 say
-      5 run
-      5 rt
       5 RonWyden
+      5 rolling
       5 requires
       5 real
       5 ready
@@ -355,128 +376,142 @@
       5 put
       5 product
       5 playlist
-      5 platform
-      5 owned
+      5 others
+      5 operations
+      5 Open
+      5 On
       5 officially
+      5 non
       5 node
       5 New
       5 network
-      5 needs
-      5 must
       5 More
       5 millions
       5 might
+      5 man
       5 makes
       5 Magazine
       5 Love
       5 letter
-      5 learn
       5 latest
       5 i
       5 How
-      5 his
       5 He
-      5 go
+      5 getting
       5 funding
-      5 freedom
-      5 few
+      5 follow
       5 fa
       5 experience
-      5 e’s
+      5 Elon
+      5 easy
       5 down
-      5 done
       5 directly
+      5 direction
       5 digital
-      5 decision
-      5 days
       5 custodial
       5 crypto
       5 could
+      5 continue
       5 content
-      5 companies
-      5 code
+      5 cash
       5 call
       5 But
-      5 BTC
-      5 brockm
-      5 biggest
+      5 birthday
       5 Best
+      5 before
       5 based
+      5 ban
+      5 back
       5 ask
       5 artist
       5 API
-      5 anyone
-      5 announced
       5 announce
       5 amendment
       5 after
       4 yet
+      4 Yes
+      4 y
+      4 wrong
       4 wow
+      4 works
       4 With
-      4 were
+      4 Whether
+      4 we've
+      4 weeks
       4 ways
+      4 wants
       4 via
       4 users
+      4 ultimately
       4 Tweets
+      4 try
       4 tools
+      4 thread
       4 thinking
+      4 then
       4 theestallion
-      4 That
       4 thank
       4 test
       4 technical
-      4 talk
-      4 taking
       4 super
       4 strong
       4 stream
       4 still
-      4 step
       4 Starting
       4 spending
       4 speech
       4 Space
-      4 So
       4 sion
       4 SenToomey
       4 seeing
       4 second
-      4 RussellOkung
       4 running
+      4 rt
       4 revue
       4 review
       4 reason
       4 provision
+      4 protect
+      4 project
       4 process
       4 problems
       4 probably
       4 present
-      4 post
+      4 possible
+      4 perfect
       4 payment
+      4 pay
       4 party
-      4 others
       4 other
-      4 operations
+      4 opportunity
+      4 ompany
       4 offer
       4 number
       4 Nigeria
-      4 My
+      4 never
+      4 needs
+      4 nayibbukele
       4 move
       4 moment
+      4 model
       4 Mining
       4 miners
       4 military
+      4 michael
+      4 means
+      4 matters
+      4 matter
       4 market
-      4 lot
       4 little
-      4 listen
       4 Lightning
+      4 life
       4 Let’s
       4 led
       4 leading
       4 law
       4 language
       4 JAY-Z
+      4 I’ve
       4 issues
       4 investing
       4 Introducing
@@ -488,84 +523,90 @@
       4 individual
       4 independent
       4 increase
+      4 hour
       4 Hot
       4 home
+      4 him
       4 harm
-      4 happy
-      4 give
-      4 getting
+      4 happen
+      4 good
+      4 freedom
       4 found
       4 folks
       4 First
       4 find
+      4 few
+      4 ever
       4 even
+      4 er
       4 entirely
+      4 entire
       4 economy
-      4 easy
       4 easier
+      4 discuss
       4 discus
+      4 did
       4 desire
-      4 damn
-      4 cryptocurrency
-      4 countries
-      4 continue
-      4 Congress
+      4 crazy
       4 complex
       4 collaboration
+      4 code
       4 CEO
-      4 cash
       4 Blockchain
       4 blaming
       4 Black
-      4 birthday
       4 between
-      4 beta
-      4 before
-      4 ban
+      4 babykeem
       4 B
-      4 b
+      4 As
       4 aren
       4 answer
       4 Android
       4 allow
+      4 album
+      4 ago
+      4 against
       4 African
-      4 actually
+      4 activity
       4 actions
       4 action
       4 accept
       4 3rd
       4 💯
       3 YOU
-      3 y
       3 worth
-      3 works
-      3 Whether
-      3 we've
-      3 weeks
       3 Watch
-      3 wants
+      3 Wall
       3 vision
       3 venture
       3 useless
       3 un
-      3 ultimately
       3 U.
       3 TwitterDev
-      3 try
+      3 tweet
+      3 truth
+      3 trusted
       3 True
       3 transparency
       3 transactions
       3 trading
       3 TOP
-      3 thread
-      3 things
-      3 then
+      3 Tomorrow
+      3 time.
+      3 TIL
+      3 thing
       3 THANK
+      3 te
+      3 taxes
       3 Taproot
+      3 talk
       3 strongblacklead
+      3 Street
       3 stage
       3 spent
       3 speak
+      3 someone
+      3 Some
       3 solo
       3 silicon
       3 Signal
@@ -580,77 +621,73 @@
       3 sats
       3 safety
       3 S
+      3 RussellOkung
       3 rule
       3 RIP
       3 rights
       3 Revue
       3 responsible
+      3 resilient
       3 required
       3 RepTomEmmer
       3 Reply
       3 renewable
-      3 read
+      3 push
       3 published
       3 provide
-      3 protect
       3 proof
       3 progress
       3 private
       3 principles
+      3 pretty
       3 President
       3 powerful
-      3 possible
       3 pm
       3 Please
-      3 playing
       3 plan
-      3 perfect
       3 People
-      3 pay
+      3 past
       3 parties
       3 p
+      3 original
       3 order
-      3 opportunity
       3 opportunities
+      3 openculture
       3 Of
       3 ODELL
       3 obvious
       3 O
       3 o
       3 Now
+      3 Nothing
       3 ning
       3 next
       3 NEW
-      3 never
       3 Network
-      3 nayibbukele
       3 named
       3 name
       3 n
+      3 Mr
       3 months
       3 moderation
       3 moderate
-      3 model
       3 mission
       3 miner
-      3 michael
-      3 Miami
-      3 Members
-      3 means
+      3 meet
       3 max
       3 MarkWarner
       3 Marathon
-      3 man
       3 mainstream
       3 longer
       3 locked
       3 loans
       3 living
+      3 LIVE
       3 list
       3 Like
-      3 life
+      3 level
       3 let’s
-      3 legislation
+      3 least
       3 Learn
       3 leadership
       3 LDK
@@ -659,37 +696,38 @@
       3 largest
       3 Know
       3 killed
+      3 kendricklamar
       3 k
       3 Just
       3 joi
       3 job
       3 itself
-      3 interested
+      3 institutions
       3 Instead
       3 initiative
       3 India
+      3 inclusive
       3 improving
       3 impactful
+      3 immediately
       3 I’ll
       3 ideas
+      3 idea
       3 human
       3 hug
       3 Hov
-      3 hour
       3 hot
       3 hope
       3 hold
       3 Help
-      3 heir
       3 having
       3 hat
-      3 happen
-      3 half
+      3 h.
       3 grow
       3 Grateful
       3 got
-      3 good
       3 gold
+      3 give
       3 Girl
       3 Ghana
       3 gets
@@ -699,43 +737,41 @@
       3 forward
       3 forever
       3 For
-      3 fiat
+      3 fixed
+      3 feedback
       3 features
       3 feature
+      3 favorite
       3 faster
       3 failures
       3 facility
-      3 f
       3 existing
+      3 ex
       3 evolve
-      3 ever
       3 ET
       3 est
       3 especially
       3 era
-      3 er
-      3 entire
       3 ensure
       3 enforcement
-      3 Elon
+      3 email
       3 ecosystem
       3 Early
+      3 e
       3 DocumentBitcoin
       3 DMX
-      3 discuss
       3 direct
-      3 did
       3 device
       3 developers
       3 Developer
       3 despite
       3 decided
       3 debate
-      3 Day
       3 current
       3 ct
-      3 crazy
+      3 cryptocurrency
       3 country
+      3 correct
       3 Core
       3 cool
       3 controls
@@ -748,6 +784,7 @@
       3 CoinDesk
       3 clear
       3 clean
+      3 chose
       3 choice
       3 challenge
       3 chain
@@ -768,33 +805,30 @@
       3 bitcoiners
       3 bitcoiner
       3 Big
+      3 big
       3 beginning
       3 banking
-      3 bad
-      3 back
-      3 babykeem
+      3 b
       3 available
       3 asking
-      3 As
       3 arrived
       3 applications
       3 Any
       3 Announcing
       3 anniversary
       3 AmritaAhuja
+      3 American
       3 already
       3 algorithm
-      3 album
       3 agree
-      3 ago
-      3 against
       3 again
       3 Africans
       3 adam
-      3 activity
+      3 actually
       3 activation
       3 across
       3 account
+      3 above
       3 100%
       3 10
       3 🔥
@@ -802,11 +836,11 @@
       2 zero
       2 YouTube
       2 you.
-      2 wrong
+      2 wrote
       2 writes
+      2 worked
       2 wongmjane
       2 woke
-      2 wiz
       2 witness
       2 wins
       2 Win
@@ -815,13 +849,13 @@
       2 wide
       2 wi
       2 whose
+      2 When
       2 Welcome
       2 welcome
       2 weekend
       2 water
       2 watch
       2 war
-      2 wanna
       2 vs
       2 volume
       2 VERY
@@ -841,16 +875,14 @@
       2 u
       2 TweetDeck
       2 Tweet
-      2 tweet
       2 turned
       2 Tune
       2 tune
       2 trying
-      2 truth
-      2 trusted
       2 Trust
+      2 truly
+      2 tried
       2 treated
-      2 Treasury
       2 transitory
       2 train
       2 tracking
@@ -859,14 +891,13 @@
       2 Tools
       2 tool
       2 tonight
-      2 time.
-      2 TIL
+      2 told
       2 Tidal
+      2 tickets
       2 Ticketed
       2 threats
       2 thoughts
       2 third
-      2 thing
       2 TheHarderTheyFall
       2 theft
       2 TheBWord
@@ -877,8 +908,7 @@
       2 tender
       2 tell
       2 technologies
-      2 te
-      2 taxes
+      2 teacher
       2 tax
       2 talking
       2 taken
@@ -889,6 +919,7 @@
       2 such
       2 substack
       2 subscribe
+      2 story
       2 StopAsianHate
       2 stocks
       2 stay
@@ -897,15 +928,16 @@
       2 Start
       2 square
       2 SqCrypto
+      2 sq
+      2 spirit
       2 special
       2 spaces
-      2 Source
-      2 soonaorlater
+      2 space
+      2 songsandsamples
       2 song
-      2 someone
-      2 Some
       2 Solomon
       2 solid
+      2 sole
       2 soft
       2 Social
       2 Snow
@@ -919,12 +951,14 @@
       2 Shopping
       2 shift
       2 serving
+      2 serve
       2 Sent
       2 send
       2 SenatorSinema
       2 Senate
       2 Seller
       2 Sekani
+      2 seen
       2 See
       2 seconds
       2 Second
@@ -945,16 +979,17 @@
       2 rihanna
       2 rig
       2 Rico
-      2 reverse
       2 revenue
-      2 resilient
+      2 responsibility
       2 requirements
+      2 require
       2 reporting
       2 repo
       2 Replit
       2 removing
       2 reminder
       2 reliability
+      2 regret
       2 reduce
       2 redbullracing
       2 Red
@@ -967,12 +1002,13 @@
       2 reality
       2 rather
       2 ramifications
+      2 quickly
       2 quick
       2 que
       2 quality
-      2 push
       2 purpose
       2 Puerto
+      2 publicly
       2 Public
       2 provided
       2 Proud
@@ -981,23 +1017,22 @@
       2 proposal
       2 proper
       2 promote
-      2 project
       2 primary
       2 prices
       2 price
       2 preview
-      2 pretty
       2 president
       2 precedent
       2 potential
+      2 post
       2 positive
       2 pool
       2 Policy
       2 points
       2 podcasts
+      2 playing
       2 place
       2 physical
-      2 Phonz
       2 person
       2 Pelosi
       2 Peer
@@ -1005,24 +1040,23 @@
       2 passes
       2 pass
       2 partner
+      2 paraga
       2 paper
       2 panel
-      2 paid
-      2 package
       2 P
       2 ownership
       2 Over
       2 ours
-      2 original
+      2 orrect
       2 organization
       2 orders
       2 operating
-      2 openculture
       2 opencryptoorg
       2 observe
       2 nuclear
+      2 nt
       2 n's
-      2 Nothing
+      2 nowplaying
       2 Not
       2 No
       2 Nigerians
@@ -1030,13 +1064,11 @@
       2 nic
       2 Next
       2 neoexpressionism
-      2 NeerajKA
       2 native
       2 NAkufoAddo
       2 Music
       2 Much
       2 mtaibbi
-      2 Mr
       2 Most
       2 morrow
       2 MORNIN
@@ -1044,16 +1076,16 @@
       2 mmasnick
       2 mix
       2 missing
+      2 miss
       2 mind
       2 Mike
+      2 Miami
       2 MIAFestival
       2 mempool
+      2 Members
       2 members
-      2 Megan
       2 maybe
       2 May
-      2 matters
-      2 matter
       2 Matt
       2 math
       2 Many
@@ -1061,84 +1093,87 @@
       2 loss
       2 looks
       2 lock
-      2 LIVE
       2 Live
       2 live!
       2 links
       2 link
       2 limit
+      2 light
       2 liabilities
       2 li
-      2 level
+      2 lexfridman
       2 lenguaje
+      2 legislation
       2 legal
       2 left
       2 leave
       2 learned
       2 layer
+      2 Lamar
       2 la
       2 krystalball
       2 knew
+      2 king
       2 kind
       2 kick
       2 keys
+      2 Kendrick
       2 keep
-      2 kayvz
       2 juneteenth
-      2 joining
+      2 joined
+      2 John
       2 Job
       2 jessedorogusker
       2 jchervinsky
+      2 Jan
       2 jackmallers
       2 Jack
-      2 I’ve
       2 I've
       2 Is
       2 investment
-      2 Investing
       2 invested
       2 introduced
+      2 interested
       2 inter
       2 intends
-      2 institutions
       2 innovative
       2 inflation
-      2 increasingly
-      2 inclusive
+      2 Industry
       2 including
       2 include
       2 incentivizes
-      2 Inc
       2 improve
-      2 immediately
+      2 impossible
       2 imagine
       2 illicit
       2 ideals
-      2 idea
       2 huge
       2 ht
       2 House
       2 Hosts
       2 hosts
+      2 Hosted
       2 Holiday
       2 holding
       2 history
       2 hiring
-      2 him
       2 highest
       2 Hey
       2 here's
       2 Her
       2 her
+      2 helping
       2 hello
+      2 heir
       2 hearings
       2 heard
       2 hear
       2 healthy
       2 Having
+      2 happened
       2 hands
       2 Hall
-      2 h.
+      2 half
       2 guy
       2 Guide
       2 growth
@@ -1164,27 +1199,28 @@
       2 fo
       2 flow
       2 fipradio
+      2 FipNowPlays
       2 fip
       2 final
-      2 feedback
+      2 fight
+      2 fiat
       2 Federal
-      2 favorite
       2 fans
       2 fan
       2 Fame
       2 Fair
-      2 Facts
       2 fact
       2 faced
+      2 f
       2 explain
       2 experiment
       2 experiences
       2 experienced
       2 existence
       2 exchange
-      2 ex
       2 evidence
       2 Everything
+      2 Every
       2 esthercrawford
       2 essential
       2 essay
@@ -1200,7 +1236,7 @@
       2 endpoints
       2 enables
       2 en
-      2 email
+      2 else
       2 ElSalvador
       2 elected
       2 effort
@@ -1209,13 +1245,13 @@
       2 effect
       2 education
       2 Earth
-      2 early
+      2 earn
       2 earlier
       2 each
+      2 during
       2 driving
       2 driven
       2 Don
-      2 Does
       2 display
       2 disinformation
       2 devs
@@ -1232,6 +1268,8 @@
       2 decide
       2 decades
       2 debit
+      2 Dear
+      2 Day
       2 daphnehk
       2 dangers
       2 dangerous
@@ -1241,7 +1279,6 @@
       2 Crash
       2 Craig
       2 Could
-      2 correct
       2 corporations
       2 core
       2 copyright
@@ -1252,9 +1289,12 @@
       2 contribute
       2 Continues
       2 constantly
+      2 constant
       2 considering
+      2 consciousness
       2 ConorOkus
       2 Conor
+      2 Congress
       2 confusion
       2 concept
       2 comprehensive
@@ -1262,23 +1302,23 @@
       2 compete
       2 commitment
       2 comments
-      2 coming
       2 co
       2 clarkmoody
       2 clarify
-      2 City
-      2 chose
+      2 citizen
       2 choose
       2 checks
       2 check
       2 CharFadirepo
       2 changing
       2 changes
+      2 central
       2 celebration
       2 CashAppSpeedLessons
       2 cashappowen
       2 cashapp
       2 carter
+      2 Can
       2 camilacampton
       2 CaitlinLong
       2 ca
@@ -1289,23 +1329,25 @@
       2 bring
       2 breaks
       2 breaking
-      2 bluewalletio
       2 Blue
-      2 blocks
+      2 Block
+      2 blank
       2 bitentrepreneur
       2 BITCOIN
+      2 bit
       2 Bird
       2 Billionaires
-      2 big
+      2 beta
       2 become
       2 because
-      2 Beautiful
       2 beautiful
-      2 Be
       2 bborrman
+      2 banks
       2 Banking
       2 bank
       2 balance
+      2 bad
+      2 baby
       2 away
       2 availability
       2 avail
@@ -1324,10 +1366,11 @@
       2 appreciated
       2 Apple
       2 anti
+      2 another
       2 anonymous
       2 amount
       2 Americans
-      2 American
+      2 am.
       2 am
       2 alternative
       2 Also
@@ -1336,55 +1379,51 @@
       2 Afterpay
       2 Afghanistan
       2 adoption
-      2 actual
       2 acquiring
       2 acquired
       2 acknowledge
       2 accountability
       2 accessibility
-      2 above
       2 Aaliyah
+      2 50t
       2 $100
-      2 $1
       2 🚨
       2 🚀
       2 📣
-      2 💰
       2 💔
       2 🇦🇷
       2 ◽
       1 Zuckerberg
       1 Z’s
       1 Zimmermann
-      1 Zaid
       1 zack
       1 Z
       1 z
       1 y’s
       1 youth
       1 yourself
+      1 YOUR
       1 Your
       1 young
-      1 Yoooo
       1 yo
       1 yes
       1 yassineARK
+      1 Ya
       1 Y
       1 xtr
       1 XPRIZE
       1 xprize
-      1 Xmas
-      1 Xentagz
       1 Wyoming
       1 Wyden
       1 wtfhappenedin
+      1 WTF
       1 wt
       1 WSJMag
-      1 wrote
       1 writing
       1 write
       1 Wright
       1 Wowwww
+      1 wowthatshiphop
       1 woul
       1 worthy
       1 worst
@@ -1393,7 +1432,6 @@
       1 worldwide
       1 World
       1 Working
-      1 worked
       1 workable
       1 words
       1 Word
@@ -1403,6 +1441,7 @@
       1 women
       1 Woah
       1 wo
+      1 wiz
       1 Without
       1 within
       1 wisdom
@@ -1415,19 +1454,21 @@
       1 why?
       1 WhosBreezyUK
       1 Whole
+      1 whole
       1 whitepaper
       1 white
       1 While
       1 WHEN
-      1 When
       1 WhatsUp
       1 Whatever
+      1 whatever
       1 WHAT
       1 wh
       1 We've
       1 Western
       1 weren
       1 Went
+      1 went
       1 Wendys
       1 welcoming
       1 welcomed
@@ -1438,6 +1479,7 @@
       1 websites
       1 website
       1 wea
+      1 wayback
       1 watched
       1 wasted
       1 Wasabi
@@ -1447,18 +1489,19 @@
       1 Warner
       1 Warming
       1 Want
-      1 Wall
+      1 wanna
+      1 walks
+      1 walked
       1 waiting
+      1 w3c
       1 w/
       1 w
       1 vulnerabilities
-      1 voting
       1 voted
       1 vote
       1 volcanoes
       1 voice
       1 Visit
-      1 violent
       1 violations
       1 Vimeo
       1 views
@@ -1482,12 +1525,11 @@
       1 validators
       1 validator
       1 validate
-      1 vaccine
       1 V
       1 uu
+      1 utilized
       1 usually
       1 uses
-      1 user
       1 usenet
       1 usefulness
       1 useful
@@ -1524,6 +1566,7 @@
       1 ueno
       1 UBI
       1 UASF
+      1 tyranny
       1 types
       1 type
       1 TWTR
@@ -1544,18 +1587,20 @@
       1 tryscroll
       1 Try
       1 trut
-      1 truly
       1 true
       1 Trudeau
       1 trivia
       1 Tremendously
+      1 Treasury
       1 trap
+      1 transparent
       1 translate
       1 tragic
       1 traditional
       1 Trading
       1 tracked
       1 Track
+      1 TOUR
       1 totaling
       1 total
       1 topic
@@ -1563,13 +1608,14 @@
       1 Took
       1 Tony
       1 Tonight
-      1 Tomorrow
+      1 tomorrow
       1 TomBrady
       1 Tom
-      1 told
       1 tokens
       1 Together
       1 Todos
+      1 toast
+      1 TO
       1 TMT
       1 tjma
       1 titles
@@ -1581,10 +1627,10 @@
       1 timelines
       1 timeline
       1 Timechain
+      1 tim
       1 tightly
       1 tighter
       1 tier
-      1 tickets
       1 ticketed
       1 ticket
       1 thus
@@ -1610,17 +1656,16 @@
       1 These
       1 TheRoot
       1 theotoukou
+      1 TheOliverStone
       1 TheNBPA
       1 themselves
       1 Their
       1 thehardertheyfall
-      1 TheeStallion
       1 Thee
       1 theBword
       1 TheBullitts
       1 thankyousatoshi
       1 Thanks!
-      1 TEYANATAYLOR
       1 text
       1 tes.
       1 terrible
@@ -1640,19 +1685,22 @@
       1 teaming
       1 teamed
       1 teame
-      1 teacher
       1 teach
       1 TDE
       1 TDB
       1 tbd
+      1 taxing
       1 Tax
       1 TAPROOT
       1 tapbots
       1 TAP
       1 tap
       1 TanzWatson
+      1 TannaLeone
       1 tall
       1 Taliban
+      1 Taking
+      1 takes
       1 Take
       1 Taiwan
       1 T
@@ -1664,12 +1712,14 @@
       1 swipe
       1 Sweden
       1 sustainabl
+      1 sustain
       1 sust
       1 suspect
       1 surveillance
       1 surpass
       1 surfaced
       1 surf
+      1 supposed
       1 Support
       1 supply
       1 superior
@@ -1678,9 +1728,6 @@
       1 Supe
       1 sunshine
       1 sunken
-      1 Sun
-      1 sun
-      1 Sugar
       1 suffer
       1 success
       1 submitted
@@ -1700,38 +1747,37 @@
       1 stripe
       1 strike
       1 strengthen
-      1 Street
       1 streams
       1 Strategic
-      1 str
+      1 strange
       1 Story
-      1 story
       1 store
       1 stopped
       1 stitzel
       1 Stimulus
       1 stimulus
+      1 Still
       1 StewYorkCity
       1 stewartbrand
       1 stevejang
       1 Steve
-      1 StephenCurry
+      1 steppers
       1 STEPHEN
       1 stem
       1 staying
       1 stawpfeenin
+      1 status
       1 station
       1 statement
       1 stat
       1 startup
       1 StartSmall
       1 startsmall
+      1 stars
       1 staple
-      1 standing
       1 stan
       1 Stallion
       1 stake
-      1 Stage
       1 staff
       1 st
       1 SquareDev
@@ -1739,10 +1785,10 @@
       1 SQ
       1 spouses
       1 spot
-      1 sponsored
       1 spoke
       1 split
-      1 spirit
+      1 spiralbtc
+      1 spin
       1 sphinx
       1 spendable
       1 Speed
@@ -1753,31 +1799,32 @@
       1 Spanish
       1 spam
       1 SpaceX
-      1 space
       1 sow
       1 South
       1 sourcing
+      1 Source
       1 sounds
       1 SoundCloud
       1 Sound
       1 soulful
+      1 sought
       1 Sothebys
       1 Sotheby
-      1 sooo
       1 SOON
       1 Soon
       1 songwriter
-      1 songsandsamples
+      1 songs
       1 Sometimes
       1 somehow
+      1 Solving
       1 solely
-      1 sole
       1 soldiers
       1 solar
       1 solangeknowles
       1 societal
       1 sobre
       1 SNARKs
+      1 snapshot
       1 SNAFU
       1 smoothly
       1 smooth
@@ -1789,13 +1836,17 @@
       1 sma
       1 sm
       1 slow
+      1 slip
       1 Slide
       1 sleep
       1 sk
       1 size
       1 six
       1 situations
+      1 situation
+      1 sitting
       1 Sir
+      1 singular
       1 Sing
       1 sinaEstavi
       1 simulation
@@ -1814,7 +1865,6 @@
       1 shows
       1 Showed
       1 Should
-      1 Shot
       1 shopping
       1 Shop
       1 Shocker
@@ -1829,6 +1879,7 @@
       1 seznam
       1 seyitaylor
       1 sewausa
+      1 several
       1 setup
       1 settle
       1 setting
@@ -1837,7 +1888,6 @@
       1 servi
       1 serves
       1 servers
-      1 serve
       1 serious
       1 sent
       1 SenShelby
@@ -1845,6 +1895,7 @@
       1 SenSanders
       1 SenRobPortman
       1 senrobportman
+      1 SENDING
       1 Senator
       1 sells
       1 selling
@@ -1852,7 +1903,8 @@
       1 select
       1 Seguiremos
       1 sees
-      1 seen
+      1 seem
+      1 SEE
       1 Security
       1 securely
       1 secu
@@ -1872,14 +1924,13 @@
       1 scalable
       1 SBF
       1 saylordotorg
-      1 saying
       1 savings
       1 Save
       1 sat
-      1 SARS-CoV-2
       1 Santa
       1 Sanders
       1 samplesmedia
+      1 sampled
       1 sales
       1 Sale
       1 sale
@@ -1889,7 +1940,6 @@
       1 safe
       1 sad
       1 rust
-      1 Russell
       1 rushed
       1 Running
       1 runners
@@ -1899,7 +1949,6 @@
       1 Royalties
       1 Routers
       1 RoninDojoUI
-      1 RonConway
       1 RocNation
       1 rockhall
       1 rockey
@@ -1909,20 +1958,23 @@
       1 rmbrgn
       1 riyal
       1 risk
-      1 rise
       1 RIPDMX
       1 ring
       1 rigor
       1 RIGHT
       1 rife
       1 riche
+      1 Rich
       1 rich
       1 reward
       1 revolutionizing
       1 revolttv
       1 revised
+      1 reverse
       1 reverence
       1 reveal
+      1 Reunion
+      1 rethinking
       1 retaking
       1 result
       1 restart
@@ -1940,10 +1992,9 @@
       1 resilience
       1 resigned
       1 Reset
-      1 Reserves
       1 Reserve
+      1 reserve
       1 research
-      1 require
       1 republican
       1 reproducible
       1 Representatives
@@ -1970,10 +2021,11 @@
       1 relying
       1 relevant
       1 releasing
+      1 release
       1 relationship
+      1 reimplementing
       1 regulate
       1 regularly
-      1 regret
       1 registered
       1 register
       1 regis
@@ -1988,49 +2040,51 @@
       1 referential
       1 reduces
       1 redemption
-      1 Reddit
       1 records
       1 recordings
       1 RECORDING
       1 Recorded
+      1 recorded
       1 recommendation
       1 recognize
+      1 recently
       1 receiving
       1 receives
       1 receipts
       1 Rebecca
       1 reasonable
       1 Reason
+      1 REALLY
       1 realDonaldTrump
-      1 Real
       1 Read
+      1 read
       1 reach
       1 RD
       1 RayDalio
       1 rationale
       1 rare
+      1 raptalksk
       1 rapper
       1 Rap
       1 ranked
       1 RajarshiMaitra
       1 raised
       1 Raise
-      1 Rainmaker
       1 radio
       1 R
       1 quoting
       1 quit
-      1 quickly
+      1 quickness
       1 question
       1 Queen
       1 Quality
       1 putting
-      1 purchased
       1 pull
       1 puede
       1 pubic
       1 PT
       1 pseudonymous
+      1 provoost
       1 providing
       1 providers
       1 proves
@@ -2053,10 +2107,9 @@
       1 productization
       1 proceeds
       1 privilege
-      1 privacy
-      1 prison
       1 prioritization
       1 prior
+      1 principle
       1 primitives
       1 pride
       1 pricing
@@ -2071,18 +2124,17 @@
       1 Predicts
       1 predat
       1 precisely
+      1 pre
       1 Practices
       1 practice
       1 practical
       1 pr
       1 pproaches
       1 powered
-      1 PowerDNS
       1 pourteaux
       1 post-it
       1 posting
       1 posters
-      1 position
       1 Porter
       1 por
       1 pop
@@ -2090,6 +2142,7 @@
       1 POINTS
       1 Point
       1 point
+      1 poet
       1 pocket
       1 pocke
       1 po
@@ -2108,15 +2161,17 @@
       1 pillows
       1 PierrePoilievre
       1 piece
+      1 Picture
       1 pick
-      1 photos
+      1 Phonz
       1 phone
       1 Philly
+      1 PhilKlay
       1 Phil
       1 phenomenal
       1 phase
       1 PGP
-      1 pfizer
+      1 pglang
       1 PeterChawaga
       1 PeterAttiaMD
       1 Peter
@@ -2127,6 +2182,7 @@
       1 permissions
       1 permissionless
       1 permission
+      1 permanent
       1 perm
       1 performance
       1 percentage
@@ -2143,8 +2199,8 @@
       1 patiently
       1 patient
       1 Pathetic
+      1 path
       1 paste
-      1 past
       1 passwords
       1 passion
       1 passed
@@ -2158,15 +2214,15 @@
       1 parliament
       1 parenthood
       1 parent
-      1 pardon
       1 parameters
       1 Parag
       1 para
       1 par
-      1 Panthers
       1 palakzat
-      1 Paid
+      1 paid
+      1 package
       1 Pacific
+      1 Pac
       1 owners
       1 overwhelming
       1 overviewing
@@ -2182,11 +2238,9 @@
       1 ourselves
       1 otros
       1 otro
-      1 OT
       1 ostensibly
       1 ossoff
       1 o’s
-      1 orrect
       1 orgs
       1 organ
       1 org
@@ -2199,8 +2253,10 @@
       1 operators
       1 operation
       1 operate
+      1 opera
       1 opensource
       1 opening
+      1 ope
       1 oops
       1 onversations
       1 onversation
@@ -2212,17 +2268,17 @@
       1 online
       1 ones
       1 oncerns
+      1 Once
       1 once
+      1 ON
       1 on_
       1 omplexity
-      1 ompany
       1 omgadamho
       1 Olympics
       1 olugbo
       1 older
       1 old
       1 Okus
-      1 Okung
       1 Ok
       1 ojomaochai
       1 Oh
@@ -2232,9 +2288,7 @@
       1 Officially
       1 official
       1 officia
-      1 offenses
       1 odell
-      1 October
       1 occupation
       1 obviously
       1 obtain
@@ -2246,8 +2300,6 @@
       1 nvk
       1 Number
       1 nuevo
-      1 NTmoney
-      1 nt
       1 NowPlaying
       1 NOW
       1 notifs
@@ -2262,6 +2314,7 @@
       1 nonlinear
       1 nominated
       1 noise
+      1 Noga
       1 noestoymolesto
       1 nodes
       1 nobody
@@ -2285,7 +2338,9 @@
       1 newsletters
       1 newcomer
       1 Nevermind
+      1 Never
       1 Netherlands
+      1 NeerajKA
       1 needed
       1 neck
       1 necessary
@@ -2318,14 +2373,15 @@
       1 mute
       1 Musk
       1 musicians
+      1 Munger
       1 mundo
       1 MsHodl
       1 Mrs
-      1 mRNA
       1 mount
       1 MOST
       1 mosseri
       1 moscowTimeBot
+      1 Morale
       1 moon
       1 Money
       1 Monetary
@@ -2342,7 +2398,6 @@
       1 mitigate
       1 MITBitcoinClub
       1 mistakes
-      1 miss
       1 misleading
       1 misinforme
       1 misinformation
@@ -2364,7 +2419,9 @@
       1 migrant
       1 middle
       1 micrometers
+      1 michaelstomford
       1 MichaelJMorell
+      1 michaeljburry
       1 MFDoom
       1 metric
       1 methods
@@ -2376,8 +2433,8 @@
       1 mentioned
       1 meldotmel
       1 Mehta
+      1 Megan
       1 Meet
-      1 meet
       1 medium
       1 mechanisms
       1 mechanism
@@ -2393,12 +2450,12 @@
       1 MCCARTHY
       1 MBuhari
       1 mbers
-      1 Mayor
       1 mayagpatterson
       1 MaxTheComrade
+      1 maximally
       1 Max
-      1 matthewstoller
       1 matt
+      1 Mathematics
       1 matched
       1 Master
       1 master
@@ -2408,13 +2465,13 @@
       1 Mars
       1 marketplace
       1 marketing
-      1 MarkellSpivey
       1 Mark
       1 March
       1 manipulated
       1 mandate
       1 manasilvora
       1 MambaMentality
+      1 Mama
       1 malemayehou
       1 Maki
       1 Make
@@ -2427,6 +2484,7 @@
       1 magnitude
       1 Madison
       1 Macron
+      1 machine
       1 M2
       1 M+
       1 M
@@ -2441,17 +2499,18 @@
       1 lower
       1 low
       1 Lots
+      1 losest
+      1 lose
       1 loopholes
       1 looking
       1 Lonnie
-      1 Lock
       1 local
+      1 load
       1 lo
       1 LN
       1 LLNH
       1 LLC
       1 lizzo
-      1 Livestream
       1 livestream
       1 lives
       1 Liv
@@ -2468,16 +2527,12 @@
       1 likes
       1 lightning
       1 Light
-      1 light
       1 lies
       1 lie
       1 LibertyBlitz
       1 liberal
       1 liability
-      1 lexfridman
       1 Lewis
-      1 letting
-      1 lets
       1 Lesson
       1 lens
       1 legitimately
@@ -2485,14 +2540,14 @@
       1 legendary
       1 legend
       1 legalize
-      1 Lebanon
       1 leaving
       1 Leave
-      1 least
+      1 learns
       1 learning
       1 lean
       1 leads
       1 leaders
+      1 layers
       1 Layer
       1 lay
       1 lawsuit
@@ -2511,7 +2566,8 @@
       1 largely
       1 lap
       1 landmark
-      1 Lamar
+      1 LAMAR
+      1 lamar
       1 LaGeoSV
       1 lado
       1 Labs
@@ -2528,19 +2584,19 @@
       1 klaythompson
       1 Klay
       1 kiss
-      1 Kingdxmpr
       1 KING
       1 King
-      1 king
+      1 killing
       1 kil
       1 kids
       1 Keys
       1 key
       1 KEVIN
-      1 kendricklamar
-      1 Kendrick
+      1 KENDRICK
+      1 kendrick
       1 keeping
       1 Keep
+      1 kayvz
       1 kateo
       1 kanyewest
       1 Kanye
@@ -2557,11 +2613,10 @@
       1 jonasschnelli
       1 joking
       1 joint
+      1 joining
       1 Joined
-      1 joined
       1 Join
       1 Johnson
-      1 John
       1 jodelapp
       1 jillrgunter
       1 Jeymes
@@ -2575,24 +2630,24 @@
       1 January
       1 janeygak
       1 jane
-      1 Jan
       1 Jaime
+      1 jackson
       1 jacindaardern
       1 jac
       1 Ive
       1 Its
       1 issuing
+      1 issue
       1 Isley
       1 IS
       1 Irving
       1 IRS
       1 irrevocable
-      1 irrelevant
       1 ireland
       1 ireaderinokun
       1 irc
-      1 iPhone
       1 ipartisan
+      1 ion
       1 IO
       1 involved
       1 involve
@@ -2600,6 +2655,7 @@
       1 investors
       1 investments
       1 investmen
+      1 Investing
       1 investigation
       1 invest
       1 inversely
@@ -2610,6 +2666,7 @@
       1 intro
       1 interviews
       1 intersections
+      1 interpolated
       1 Internet
       1 Internal
       1 interests
@@ -2648,27 +2705,31 @@
       1 Independence
       1 indefinitely
       1 incubator
-      1 Incredibly
       1 incredibly
+      1 increasingly
       1 increases
       1 inconsistencies
       1 inclusion
       1 includes
+      1 inclu
       1 incentivize
       1 incentives
       1 incentive
+      1 Inc
       1 inc
       1 IN
+      1 improves
       1 improvemen
       1 improved
       1 impossibly
-      1 impossible
       1 importantly
       1 imperial
       1 IMF
       1 images
       1 im
+      1 Illustrating
       1 illustrates
+      1 illegal
       1 I'll
       1 i’ll
       1 ihate
@@ -2704,12 +2765,12 @@
       1 hub
       1 HQ
       1 Hoy
+      1 however
       1 HOW
       1 HOV
       1 house
       1 Hotties
       1 hosting
-      1 Hosted
       1 Hopefully
       1 hoped
       1 Hop
@@ -2738,11 +2799,12 @@
       1 high
       1 hidden
       1 Hi
+      1 hi
       1 HetongLi
+      1 heroes
       1 Here
       1 hem
       1 helps
-      1 helping
       1 heavily
       1 hearts
       1 heart
@@ -2752,6 +2814,7 @@
       1 Head
       1 HBerkoe
       1 HBCU
+      1 haven
       1 hatred
       1 hashtags
       1 hashtag
@@ -2760,7 +2823,6 @@
       1 hardships
       1 harder
       1 hard
-      1 happened
       1 Hands
       1 hand
       1 HamsterCoin
@@ -2769,6 +2831,7 @@
       1 hablar
       1 hablando
       1 hablamos
+      1 h21
       1 H
       1 guzmanpintos
       1 guise
@@ -2780,7 +2843,6 @@
       1 guaranteed
       1 grows
       1 grown
-      1 Group
       1 group
       1 groundwork
       1 gro
@@ -2814,9 +2876,9 @@
       1 globally
       1 glad
       1 Given
+      1 given
       1 GitHub
       1 gig
-      1 gifts
       1 giant
       1 Ghanaians
       1 ggreenwald
@@ -2830,7 +2892,6 @@
       1 genesis
       1 generation
       1 Generating
-      1 General
       1 genekogan
       1 gene
       1 gave
@@ -2842,9 +2903,9 @@
       1 funded
       1 Fund
       1 function
+      1 fun.
       1 Full
       1 Fucking
-      1 FTC
       1 fro
       1 friends
       1 friday
@@ -2858,8 +2919,10 @@
       1 fragment
       1 Four
       1 fountain
+      1 founders
       1 founded
       1 Foundation
+      1 forms
       1 Former
       1 former
       1 fork
@@ -2880,9 +2943,8 @@
       1 flipped
       1 flashy
       1 flag
-      1 fl
-      1 fixed
       1 fix
+      1 fits
       1 firs
       1 Fire
       1 finished
@@ -2904,7 +2966,6 @@
       1 Fighting
       1 fighting
       1 fightfortheftr
-      1 fight
       1 Fiat
       1 fewer
       1 Few
@@ -2912,7 +2973,6 @@
       1 felt
       1 fees
       1 feels
-      1 federal
       1 Fed
       1 feather
       1 feat
@@ -2926,6 +2986,8 @@
       1 families
       1 falls
       1 failure
+      1 failing
+      1 Facts
       1 facts
       1 facilitate
       1 faces
@@ -2937,12 +2999,12 @@
       1 extraordinary
       1 extr
       1 extension
+      1 extend
       1 expressionism
       1 expression
       1 express
       1 exploring
       1 explores
-      1 Explore
       1 Exploiting
       1 experts
       1 expensive
@@ -2970,9 +3032,9 @@
       1 Ex
       1 ew
       1 everybody
-      1 Every
       1 eventually
       1 events
+      1 eve
       1 Europe
       1 ethos
       1 Ethiopia
@@ -2989,6 +3051,7 @@
       1 esign
       1 escape
       1 erode
+      1 Erez
       1 ERA
       1 equitable
       1 episode
@@ -3004,7 +3067,6 @@
       1 Enter
       1 enjoyed
       1 engineering
-      1 engineer
       1 engaging
       1 Enforcing
       1 enduring
@@ -3018,7 +3080,6 @@
       1 emissions
       1 emilycchiu
       1 emboldened
-      1 else
       1 Ellington
       1 eliminates
       1 elidourado
@@ -3030,7 +3091,6 @@
       1 efficiency
       1 efficiencies
       1 effectively
-      1 EFF
       1 EDT
       1 edit
       1 edge
@@ -3044,18 +3104,14 @@
       1 eat
       1 east
       1 eart
-      1 earn
+      1 early
       1 earliest
       1 e-1
-      1 e
       1 dynamic
       1 Dying
       1 During
-      1 during
       1 dumbest
       1 Duke
-      1 DubNation
-      1 drug
       1 Dropping
       1 dropped
       1 drop
@@ -3066,6 +3122,7 @@
       1 drive
       1 driv
       1 DrEliDavid
+      1 Draws
       1 Draw
       1 dramatic
       1 draft
@@ -3077,10 +3134,12 @@
       1 donate
       1 DominiqueZonyee
       1 Domain
+      1 dollar
+      1 Doing
       1 doesn't
+      1 Does
       1 doc
       1 DMs
-      1 DM
       1 DJ
       1 division
       1 divided
@@ -3099,7 +3158,6 @@
       1 Discover
       1 discography
       1 disarm
-      1 disappointing
       1 Directors
       1 Director
       1 dir
@@ -3142,9 +3200,11 @@
       1 delivering
       1 delighted
       1 deliberation
+      1 deliberately
       1 delegating
       1 delbius
       1 del
+      1 defjam
       1 definition
       1 definitely
       1 defense
@@ -3155,13 +3215,13 @@
       1 declare
       1 decisive
       1 Deciding
+      1 deciding
       1 deception
       1 decentralizing
       1 Decentralized
       1 decentralize
       1 decade
       1 debut
-      1 Dear
       1 deal
       1 deadly
       1 dead
@@ -3197,6 +3257,7 @@
       1 culture
       1 Cuban
       1 Cub
+      1 cts
       1 ctions
       1 Cryptoverse
       1 CryptoPlug
@@ -3242,18 +3303,15 @@
       1 convo
       1 convey
       1 convert
-      1 conversational
       1 controversial
       1 contributors
       1 contributor
       1 contribution
       1 contributing
-      1 contract
       1 continues
       1 continued
       1 contin
       1 constrained
-      1 constant
       1 consistently
       1 Considering
       1 consequence
@@ -3263,7 +3321,7 @@
       1 connect
       1 congress
       1 confiscated
-      1 Conference
+      1 confide
       1 conditional
       1 conclusions
       1 concerns
@@ -3277,23 +3335,28 @@
       1 compared
       1 CommunityCrypto
       1 Community
+      1 communities
       1 common
       1 Committee
       1 committee
       1 commited
       1 commit
+      1 commercials
       1 Commerce
       1 command
       1 Coming
+      1 coming
       1 comin
       1 comes
       1 Come
       1 Com
+      1 Coltrane
       1 colony
       1 Colonialism
       1 collection
       1 collect
       1 coins
+      1 cohesive
       1 coercion
       1 Code
       1 Cobra
@@ -3322,8 +3385,8 @@
       1 civilians
       1 civilian
       1 civic
+      1 City
       1 CitizenBitcoin
-      1 citizen
       1 circumstances
       1 circumstance
       1 circle
@@ -3332,15 +3395,14 @@
       1 ChristchurchCall
       1 chosen
       1 choosing
-      1 children
       1 cheese
       1 Checking
       1 Check
       1 Chatting
       1 chat
+      1 Charlie
       1 charges
       1 charge
-      1 character
       1 Changing
       1 changed
       1 Champion
@@ -3348,10 +3410,10 @@
       1 chairs
       1 Chadwick
       1 ces
+      1 ception
       1 cents
       1 centralizing
       1 Central
-      1 central
       1 Centered
       1 centered
       1 cement
@@ -3369,6 +3431,7 @@
       1 catalog
       1 casu
       1 CashAppForHotties
+      1 CASH
       1 Case
       1 case
       1 carpet
@@ -3387,7 +3450,6 @@
       1 capability
       1 capabilities
       1 Canada
-      1 Can
       1 Campaign
       1 Calling
       1 called
@@ -3414,10 +3476,12 @@
       1 btcdirdotorg
       1 Brunch
       1 Brothers
+      1 brother
       1 brokers
       1 Broker
       1 broker
       1 Broke
+      1 broadly
       1 broader
       1 broad
       1 brings
@@ -3425,10 +3489,11 @@
       1 brief
       1 BrianLockhart
       1 BrianBrooksOCC
-      1 brgridiron
+      1 break
       1 branch
       1 brainpicker
       1 Brady
+      1 BOY
       1 bounty
       1 bottom
       1 Both
@@ -3439,27 +3504,27 @@
       1 boggling
       1 Boeree
       1 bodies
+      1 bo
+      1 bluewalletio
       1 blossom
       1 blog
       1 Blockstream
+      1 blocks
       1 blocking
       1 blockers
       1 blockclock
-      1 Block
       1 Blinken
       1 blind
       1 blew
+      1 bles
       1 Blend
-      1 BleacherReport
-      1 blank
       1 blame
-      1 BitcoinCritics
       1 Bitco
       1 Bitc
       1 Birthday
       1 Birdwatch
       1 bird
-      1 BioNTech
+      1 binary
       1 Billy
       1 billonario
       1 billion
@@ -3468,10 +3533,10 @@
       1 bigmarh
       1 bigklef
       1 bigger
+      1 BIG
       1 Biden
       1 bias
       1 Bi
-      1 bi
       1 beyond
       1 Beyoncé
       1 Beyonce
@@ -3481,6 +3546,7 @@
       1 Benefit
       1 benefit
       1 beneficial
+      1 bench
       1 below
       1 beloved
       1 believes
@@ -3494,8 +3560,11 @@
       1 Becca
       1 became
       1 beauty
+      1 Beautiful
       1 beat
+      1 bear
       1 beachainbtc
+      1 Be
       1 be.
       1 batch
       1 basquiat
@@ -3504,7 +3573,6 @@
       1 barely
       1 bar
       1 banned
-      1 banks
       1 Bank
       1 bands
       1 Ban
@@ -3521,6 +3589,8 @@
       1 automattic
       1 automatically
       1 automated
+      1 authorities
+      1 authoritarianism
       1 Austrian
       1 Audacity
       1 audacity
@@ -3535,10 +3605,12 @@
       1 Asian
       1 ashevat
       1 Ashes
+      1 ases
       1 ASAPferg
       1 artistmunch
       1 Artist
       1 Art
+      1 Around
       1 aroun
       1 arms
       1 arise
@@ -3546,6 +3618,7 @@
       1 argument
       1 argue
       1 Argentina
+      1 arena
       1 areas
       1 arctictony
       1 Archive
@@ -3554,7 +3627,6 @@
       1 arbitrary
       1 Arabia
       1 ar
-      1 approximately
       1 approved
       1 approval
       1 Approach
@@ -3564,12 +3636,11 @@
       1 apply
       1 AppLovin
       1 applica
-      1 Aok
-      1 AOC
+      1 APP
+      1 anything
       1 Anyone
       1 antidepressant
       1 Another
-      1 another
       1 annual
       1 announcing
       1 announces
@@ -3577,7 +3648,6 @@
       1 ann
       1 animati
       1 ani
-      1 AndrewYang
       1 ancient
       1 americana
       1 America
@@ -3586,10 +3656,10 @@
       1 Amaz
       1 amash
       1 amanik
-      1 am.
       1 a.m
       1 Always
       1 alongside
+      1 alone
       1 almost
       1 allows
       1 Alliance
@@ -3603,11 +3673,9 @@
       1 ALBUM
       1 alarm
       1 Alameda
-      1 Al
       1 akkhosh
       1 AkilahObviously
       1 ajtowns
-      1 ain
       1 aim
       1 aiding
       1 AIDINDIA
@@ -3626,15 +3694,18 @@
       1 advice
       1 advertisers
       1 advance
+      1 adv
       1 adriyoung
       1 adopter
-      1 Admission
+      1 admitted
       1 administration
       1 adding
       1 added
       1 add
       1 adamcjona
+      1 ad
       1 actuallyCarlaKC
+      1 actual
       1 activities
       1 activists
       1 Acting
@@ -3654,7 +3725,6 @@
       1 About
       1 ability
       1 abesutherland
-      1 Abbadi
       1 ab
       1 AarikaRhodes
       1 AA
@@ -3662,12 +3732,11 @@
       1 90%
       1 8.8mm
       1 7t
+      1 6t
       1 58%
-      1 50t
       1 5%
       1 4k
       1 -4
-      1 3M
       1 35%
       1 33V
       1 33v
@@ -3682,22 +3751,23 @@
       1 10t
       1 100k
       1 10%
-      1 1%
       1 0
-      1 $600
-      1 $500
       1 $40
       1 $30
       1 $3
       1 $260
       1 $15
+      1 $1
       1 🤝
       1 🤓
       1 🚩
+      1 🙏🏽
       1 🙏🏼
       1 🙌🏾
       1 😻
+      1 😭
       1 🔬
+      1 💰
       1 💎
       1 👏
       1 👋🏾

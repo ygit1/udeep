@@ -46,10 +46,17 @@ from rest_framework.response import Response
 def gott(request):
     res = request.GET['id'] #キーボードからyour_nameというresponseを受け取り
 # このviewsからの場所でファイルを指定
-    cmd = './a.sh {}'.format(res) 
+    cmd = './a.sh {}'.format(res)
     pipe=subprocess.run(cmd, shell=True)
-    
-    return render_to_response('result.html', {'result': result})
+    import pandas as pd
+    df = pd.read_csv(res+".txt")
+    dfo = df.to_html()
+    import os
+    import shutil
+    shutil.move(res+".txt", "gott_/"+res+".txt")
+    pipe=subprocess.run(cmd, shell=True)
+    os.remove(res+".txt")
+    return HttpResponse(dfo)
 
 
 def top(request):
