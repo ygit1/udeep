@@ -3,14 +3,11 @@ import time
 from django.http import HttpResponse
 from django.views.generic import TemplateView
 from django.shortcuts import render
-
 from allauth.socialaccount.models import SocialToken
 from allauth.socialaccount.models import SocialAccount
 from allauth.socialaccount.providers.twitter.views import TwitterOAuthAdapter
-
 import subprocess
 import twint
-
 import sys
 
 
@@ -42,18 +39,23 @@ import os
 
 from rest_framework.response import Response
 
-#@print_http_response
+
 def gott(request):
     res = request.GET['id'] #キーボードからyour_nameというresponseを受け取り
 # このviewsからの場所でファイルを指定
     cmd = './a.sh {}'.format(res) 
     pipe=subprocess.run(cmd, shell=True)
-    
-    return render_to_response('result.html', {'result': result})
+    import pandas as pd
+    df = pd.read_csv(res+".txt")
+    dfo = df.to_html()
+    return HttpResponse(dfo)
+
 
 
 def top(request):
     f = open('sns/txt/x00' , 'r')
+   # f = open('jack.txt' , 'r')
+ 
     file_content = f.read()
     f.close()
     context = {'file_content': file_content}
@@ -265,9 +267,6 @@ def twint(request):
 
 
 
-
-
-
 ###########################################################################
 
 import tweepy
@@ -288,8 +287,8 @@ def auth(request):
     auth = tweepy.OAuthHandler(twitter_keys['consumer_key'], twitter_keys['consumer_secret'])
     auth.set_access_token(twitter_keys['access_token_key'], twitter_keys['access_token_secret'])
     api = tweepy.API(auth)
-    me=api.me()
-
+#    me=api.me()
+    api.update_status('e')
     a=[]
 
 #get 20 followers
@@ -297,13 +296,41 @@ def auth(request):
 #        a.append(follower.screen_name + '\n')
 
 #more than 20 use cursor
-    for follower in tweepy.Cursor(api.followers,id=me.id,count=50).items():
-        a.append(follower.screen_name + '\n')
-    print(len(a))    
-    #return render(request,'afterauth.html')
-    return HttpResponse(a)
+#    for follower in tweepy.Cursor(api.followers,id=me.id,count=50).items():
+#        a.append(follower.screen_name + '\n')
+#    print(len(a))    
+#    #return render(request,'afterauth.html')
+#    return HttpResponse(a)
 
 # Counting the number of followers.
+
+
+
+
+
+###########################################################################
+
+
+def switch(request):
+
+    import tweepy
+    api = tweepy.Client(bearer_token='AAAAAAAAAAAAAAAAAAAAAGSPbwEAAAAAMQNZBThqpti8xuf9GPAzNGnXGI8%3DHWTztfxdZV1tK3Dyd9cWILlUk5yL8VLRu3VqvPqaBm54eQjAaB')
+
+
+    #me=api.me()
+
+    a=[]
+    api.update_status(request)
+
+   # match request:
+    #    case 400:
+            #
+     #   case 400:
+            #
+
+
+
+
 
 
 

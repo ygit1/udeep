@@ -16,7 +16,7 @@
 
 
 
-いろんなデータはこの構文で取る
+
 <p><b>ScreenName</b>:{{ user.access_token.screen_name }}</p>
 <p><b>UserId</b>:{{ user.access_token.user_id }}</p>
 <p><b>OAuthTokenSecret</b>:{{ user.access_token.oauth_token_secret }}</p>
@@ -48,6 +48,23 @@ user.id: {{ user.id }}<br>
 ff<form action={% url 'ff' %}  method="get">
     <input type="submit">
 </form>
+
+
+
+switch
+<form action={% url 'switch' %}  method="get">
+  <label>pub <input type="text" size="10" name="your_name"></label>
+  <select id="limit" name="limit">
+    <option value="20">20</option>
+    <option value="40">40</option>
+  </select>
+  <input type="submit">
+</form>
+
+
+
+
+
 
 
 dl

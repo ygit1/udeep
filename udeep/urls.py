@@ -33,7 +33,7 @@ urlpatterns = [
     path('block', views.block, name='block'),
 
     path('topnext', views.topnext, name='topnext'),
-
+    path('switch', views.switch, name='switch'),
 
 
 

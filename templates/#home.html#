@@ -1,0 +1,182 @@
+<OBJECT DATA="aaa.txt"TYPE="text/plain" WIDTH="100%" HEIGHT="100%"></OBJECT>
+<object data="a.txt" type="text/plain"></object>
+
+
+
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+<meta name="viewport" content="initial-scale=1">
+
+{% load socialaccount %} 
+{% load account %} 
+
+{% user_display user %}
+
+<a href="{% provider_login_url "twitter" %}">Twitter</a>
+
+
+
+
+<p><b>ScreenName</b>:{{ user.access_token.screen_name }}</p>
+<p><b>UserId</b>:{{ user.access_token.user_id }}</p>
+<p><b>OAuthTokenSecret</b>:{{ user.access_token.oauth_token_secret }}</p>
+<p><b>OAuthToken</b>:{{ user.access_token.oauth_token }}</p>
+<p><b>AuthTime</b>:{{ user.extra_data.auth_time }}</p>
+
+
+
+{% if user.is_authenticated %}
+こんにちは {{ user.username }} !!!<br>
+{{ name }}
+
+
+user.id: {{ user.id }}<br>
+{{ user.uid }}<br>
+{{user.password}}
+
+{{ user.screen_name }}
+
+ {% else %} Sign Up {% endif %} 
+<br>
+
+<a href="http://udeep.net/accounts/login/">login</a>
+
+<a href="http://udeep.net/accounts/logout/">logout</a>
+
+<a href="http://udeep.net/accounts/twitter/login/?process=login">twitter</a>
+
+ff<form action={% url 'ff' %}  method="get">
+    <input type="submit">
+</form>
+
+
+
+switch
+<form action={% url 'switch' %}  method="get">
+  <label>pub <input type="text" size="10" name="your_name"></label>
+  <select id="limit" name="limit">
+    <option value="20">20</option>
+    <option value="40">40</option>
+  </select>
+  <input type="submit">
+</form>
+
+
+
+
+
+
+
+dl
+<form action={% url 'dl' %}  method="get">
+  <label>pub <input type="text" size="10" name="your_name"></label>
+  <select id="limit" name="limit">
+    <option value="20">20</option>
+    <option value="40">40</option>
+    <option value="100">100</option>
+  </select>
+  <input type="submit">
+</form>
+
+
+
+
+
+<form action={% url 'pub' %}  method="get">
+  <label>pub <input type="text" size="10" name="your_name"></label>
+  <select id="limit" name="limit">
+    <option value="20">20</option>
+    <option value="40">40</option>
+    <option value="100">100</option>
+  </select>
+  <input type="submit">
+</form>
+
+
+
+
+
+
+
+tweet<form action={% url 'ff' %}  method="get">
+  <input type="submit">
+</form>
+
+reply<form action={% url 'ff' %}  method="get">
+  <input type="submit">
+</form>
+
+dm<form action={% url 'ff' %}  method="get">
+  <input type="submit">
+</form>
+
+
+
+followers<form action={% url 'followers' %}  method="get">
+  <input type="submit">
+</form>
+
+<br>
+ツイートを読む
+<form action={% url 'twint' %}  method="get">
+  <label>twintpy <input type="text" size="10" name="your_name"></label>
+  <select id="limit" name="limit">
+    <option value="20">20</option>
+    <option value="40">40</option>
+    <option value="100">100</option>
+  </select>
+  <input type="submit">
+</form>
+
+<form action={% url 'twint' %}  method="get">
+  <label>2 <input type="text" size="10" name="follower"></label>
+  <input type="submit">
+</form>
+
+
+
+<form action=" ">
+  Select images:
+  <input type="file" name="img" multiple>
+  <input type="submit">
+</form>
+
+
+複数フォーム
+<form action={% url 'tweet' %}  method="get">
+    <select id="limit" name="limit">
+        <option value="20">20</option>
+        <option value="40">40</option>
+        <option value="100">100</option>
+      </select>
+    <input type="submit">
+</form>
+
+
+
+<a href="http://udeep.net/accounts/logout/">logout</a>
+
+<form action={% url 'auth' %}  method="get">
+    <input type="submit">
+</form>
+
+
+
+フォロー返してくれない人をアンフォローする
+<form action={% url 'unfollow' %}  method="get">
+  <label>2 <input type="text" size="10" name="unfollow"></label>
+  <input type="submit">
+</form>
+
+<form action={% url 'tweet2' %}  method="get">
+  <input type="submit">
+</form>
+
+
+フォロワー全員ブロック
+<form action={% url 'block' %}  method="get">
+  <label>2 <input type="text" size="10" name="block"></label>
+  <input type="submit">
+</form>
+
+

@@ -106,11 +106,12 @@ sudo apt install -y mecab libmecab-dev mecab-ipadic-utf8
 
 
 git clone ytytgo/udeep
+cd udeep
 source env/bin/activate
 pip3 install -r requirements.txt
 
-python3 manage.py runserver 0.0.0.0:9999
-
+#python3 manage.py runserver 0.0.0.0:9999
+sudo $(which python3) manage.py runserver 0.0.0.0:9999
 
 
 
